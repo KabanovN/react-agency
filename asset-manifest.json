@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-agency/static/css/main.80ecd40c.css",
+    "main.js": "/react-agency/static/js/main.7db6c0bc.js",
+    "index.html": "/react-agency/index.html",
+    "main.80ecd40c.css.map": "/react-agency/static/css/main.80ecd40c.css.map",
+    "main.7db6c0bc.js.map": "/react-agency/static/js/main.7db6c0bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ecd40c.css",
+    "static/js/main.7db6c0bc.js"
+  ]
+}
