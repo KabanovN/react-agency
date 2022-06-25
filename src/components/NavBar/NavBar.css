@@ -1,0 +1,27 @@
+.header__nav {
+    width: 49%;
+    margin: 0 1rem;
+}
+
+.nav__list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    vertical-align: middle;
+}
+
+.nav__link {
+    display: block;
+}
+
+.nav__link:hover {
+    text-decoration: underline;
+    transition: 0.2s;
+    transform: translateY(2px);
+}
+
+@media (max-width: 1039px) {
+    .header__nav {
+        display: none;
+    }
+}

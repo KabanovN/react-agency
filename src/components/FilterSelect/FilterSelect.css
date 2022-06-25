@@ -1,0 +1,29 @@
+.filter-select {
+    display: flex;
+    width: 329px;
+    margin: 4.5rem auto;
+}
+
+.filter-select select {
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.filters__item {
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: inherit;
+    border: none;
+}
+
+.filters__item:hover {
+    text-decoration: underline;
+    transition: 0.2s;
+    transform: translateY(2px);
+}
+
+@media (max-width: 1040px) {
+    .filter-select {
+        margin: 3rem auto;
+    }
+}

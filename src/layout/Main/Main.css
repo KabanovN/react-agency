@@ -1,0 +1,28 @@
+main {
+    color: #391400;
+    background-color: #fdf0e9;
+}
+
+.main__container {
+    display: flex;
+    flex-direction: column;
+    padding: 5rem 0.875rem;
+}
+
+.load {
+    margin: 0 auto;
+    margin-bottom: 11.5rem;
+}
+
+.load__btn {
+    display: block;
+    padding: 14px 46px 15px;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 3px 9px 0 rgba(57, 20, 0, 0.08);
+}
+
+.load__btn:hover {
+    color: #fff;
+    background-color: #391400;
+}
